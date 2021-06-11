@@ -1,0 +1,7 @@
+Use the DataNation data set and find the following:-
+
+- Create separate Cities by removing the Code associated with each cities
+- Create a heirarchy of the state and city
+- Create a Filled map 
+- Find the Death Rate for Cities with a ShapeCard.
+- Change the color of the shapes.

@@ -1,0 +1,7 @@
+Use the Store_Data data and do the following
+
+- Conduct a Market Basket Analysis
+
+- Perform the required Join Operations to do this.
+
+- The market basket analysis should be in terms of  Product Sub category and Order ID

@@ -1,0 +1,10 @@
+Use the GlobalData data set and find the following:-
+
+- Create a hierarchy of the Continent, Region and Country
+
+- Create a map with continent as dots for each continent.
+
+- Change the color of the dots with the help of color marks
+
+- Change the shape of the dots with different dot for each continent
+ 

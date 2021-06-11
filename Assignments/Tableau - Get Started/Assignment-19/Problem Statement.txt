@@ -1,0 +1,9 @@
+Use the CarMakers dataset and analyse the following
+
+- Create a Side by Side Circlr chart using the fuel type Dimension
+
+- Show the Average Milage in terms of City and Highway
+
+- Use differnt shapes to show the differnt fuel types in the chart
+
+- Show the average milage for each fuel type in terms of City & Highway Milage

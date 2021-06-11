@@ -1,0 +1,9 @@
+Use the Superstore_USA data and find thefollowing scenarios
+
+- Create a Bar chart showing the sales in terms of Product Sub Category
+
+- Use the Profit measure to as a color card on the 
+
+- Create a parameter to sort the Chart in terms of Sales & Profit 
+
+- Parameter should be visible to the end user

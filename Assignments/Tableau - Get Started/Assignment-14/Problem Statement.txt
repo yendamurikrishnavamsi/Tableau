@@ -1,0 +1,14 @@
+Use the Superstore_USA data and find the  following scenarios
+
+- Create the required hierarchy in your dataset 
+
+- Create Bar chart with sales as per Product Sub category
+
+- Sort the Chart with Highest Sales
+
+- Create two filters in terms of Product Category & Product Sub category 
+
+
+- Both the filters should synchronised with each other
+
+- Create a visual filter showing the top 10 sales

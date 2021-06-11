@@ -1,0 +1,7 @@
+Use the Superstore_USA data and find the following scenarios
+
+- Create a Combo Bar & Line chart
+
+- Show the Sales & Profit with two differnt visual in one chart i.e. Sales as Bar grapgh and Profit as a line chart.
+
+- Make sure to have different colors for different Charts.

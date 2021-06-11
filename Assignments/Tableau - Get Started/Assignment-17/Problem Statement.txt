@@ -1,0 +1,15 @@
+Use the Superstore_USA data and find the following scenarios
+
+- Create a Bar chart showing the sales in terms of Product Sub Category
+
+- Create a SET of the top 10 Customer and Use it to show the Customer which comes within the SET.
+
+
+- Create a Bar chart showing the Profit in terms of Product Sub Category
+
+- Create a SET of the top 10 Customer and Use it to show the Customer which comes within the SET.
+
+
+- Combine both the SET and use to show the customers who brings both Profit & Revenue.
+
+

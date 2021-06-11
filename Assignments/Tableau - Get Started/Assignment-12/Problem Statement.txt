@@ -1,0 +1,7 @@
+Use the Superstore_USA data and find the  following scenarios
+
+- Create a Donut Chart showing the sales for the different product categories.
+
+- Need the total sales figure in the centre of the Donut Chart
+
+- Change the color of the chart 

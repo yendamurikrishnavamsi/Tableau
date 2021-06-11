@@ -1,0 +1,7 @@
+Use the Demographic_Details and perform the following analysis
+
+- Find the Death Rate for each State 
+
+- Perform String calculation by creating separat column for the cities without the city code
+
+- Create a Death Rate Category as High, Mid and Low with  the help of Logical Calculations

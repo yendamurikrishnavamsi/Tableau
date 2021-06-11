@@ -1,0 +1,7 @@
+Use the Superstore_USA data and do the following
+
+- Create a Line chart in terms of Sales.
+
+- Create a Parameter in such a way that it can be used as a growth rate caluclator in terms of Percentage.
+
+- Growth Rate should be 5% with each increament.

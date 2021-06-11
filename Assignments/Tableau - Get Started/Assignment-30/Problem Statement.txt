@@ -1,0 +1,7 @@
+Use the Store_Data data and do the following using the Order Date Measure
+
+- Create a Discreate Line Chart in terms of Sale
+
+- Create a Continous line chart in terms od Sales
+
+- Create a Range and Relative Date Filter on both Chart and list out the differnce. 

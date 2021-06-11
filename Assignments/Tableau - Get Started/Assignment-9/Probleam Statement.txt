@@ -1,0 +1,5 @@
+Use the DataNation data set and find the following:-
+
+- Create a Filled map 
+- Find the Death Rate for states and the Population for each state
+- Change the color of the filled map showing the state with high death rate with red color.

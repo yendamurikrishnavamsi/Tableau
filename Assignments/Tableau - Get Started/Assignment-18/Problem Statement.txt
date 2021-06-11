@@ -1,0 +1,8 @@
+Use the CarMakers dataset and analyse the following
+
+- Create a Side by Side Bar chart using the fuel type Dimension
+
+- Show the Average Milage in terms of City and Highway
+
+- List out three drawback of using the Side by Side bar chart. 
+

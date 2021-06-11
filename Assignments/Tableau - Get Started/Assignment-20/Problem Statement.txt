@@ -1,0 +1,10 @@
+Use the Superstore_USA data and do the following
+
+Create visuals in order to showcase the following visual segments
+
+
+- Composition
+- Comapresion
+- Relation
+- Trend
+- Geo Maps

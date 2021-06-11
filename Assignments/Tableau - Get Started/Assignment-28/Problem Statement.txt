@@ -1,0 +1,7 @@
+Use the Store_Data data and do the following
+
+- Create Grouped Bar Chart  in terms of region and Product Category
+
+- Create a filter on the Region Measure
+
+- Use Different Color Combination for each category

@@ -1,0 +1,5 @@
+Use the Store_Data data and do the following
+
+- Create Bar Chart showing the Top N and Bottom N products in terms of the Product Names.
+
+- Your Visual should show both the details in terms of the Top N and Bottom N product in a single chart.

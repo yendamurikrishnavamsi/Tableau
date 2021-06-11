@@ -1,0 +1,9 @@
+Use the Superstore_USA data and find the following scenarios
+
+- Create the required hierarchy in your dataset 
+
+- Create Scatter plot chart with respect to Sales & Profit 
+
+- Exclude the outlier(Extream Value) from the chart.
+
+- Use the view data option to explore the data from any particular sction of the Chart.

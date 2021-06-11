@@ -1,0 +1,14 @@
+- Death Rate in colors
+- DR & Populations
+- Prominent Cities with Large populations
+- Death rate of cities
+- Create group for Costal Cities
+- Create a filter on Coastal Cities
+- Change Map Layers
+
+- Use the Global Data
+ 
+- Create Heirarchy 
+- Continent with diff Popuplation
+- With Diff Symbol
+- Determine the Inc/Dec in Population

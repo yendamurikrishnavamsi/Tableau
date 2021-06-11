@@ -1,0 +1,7 @@
+Use the Store_Data data and do the following
+
+- Create Grouped Bubble Chart Chart  in terms Product Sub Category 
+
+- Use the Profit as a color Mark to show the bubble chart
+
+- Label the chart with Discount tooltip option

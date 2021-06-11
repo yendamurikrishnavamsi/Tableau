@@ -1,0 +1,7 @@
+Use the Superstore_USA data and find the customer loyalty on the following scenarios
+
+- How much sales has come from customer from the previous in the current year in terms of Sales Value.
+
+- How much sales has come from customer from the previous in the current year in terms of Sales Percentage.
+
+- Find the orders placed by each customers 

@@ -1,0 +1,7 @@
+Use the MotoCad data set and do the following
+
+- Create a Alias for VS, AM dimension
+
+- Create Group for the Carb as Light and Heavy Cars
+
+- Create a Hierarchy with Light & Heavy Cars, Carb and Car Name

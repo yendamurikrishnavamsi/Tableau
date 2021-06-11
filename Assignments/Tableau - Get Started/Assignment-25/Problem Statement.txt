@@ -1,0 +1,7 @@
+Use the Store_Data data and do the following
+
+- Create a Pie Chart Drill Down in terms of Sales and Product category & Product Sub- Category
+
+- Need to use the concept of Dual Axis 
+
+- Your Chart should show the layers for each Sales Categies like 1st Layer for Product Category , 2nd Layer for Product Sub Category
